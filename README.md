@@ -34,8 +34,3 @@ The linear regression model achieved a certain level of accuracy in predicting m
 
 # Conclusion
 This project demonstrates the application of data science techniques to predict medical insurance costs for individuals. By leveraging machine learning models, insurance companies can better understand the factors influencing insurance costs and individuals can make informed decisions about their healthcare expenses.
-
-Future Work
-Explore additional machine learning algorithms and techniques to improve prediction accuracy.
-Incorporate additional features or external data sources to enhance the predictive power of the model.
-Deploy the model as a web application or API for real-time insurance cost estimation.
